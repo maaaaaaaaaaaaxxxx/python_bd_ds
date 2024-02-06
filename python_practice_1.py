@@ -1,0 +1,1 @@
+print("Maksym Myhal, KN-8")
